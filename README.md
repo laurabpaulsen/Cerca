@@ -1,2 +1,2 @@
 # Cerca
-Flux Pipeline for Circa/QuSpin OPM System
+Flux Pipeline for Cerca/QuSpin OPM System
